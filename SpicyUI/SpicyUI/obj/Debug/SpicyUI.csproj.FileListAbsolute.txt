@@ -1,0 +1,14 @@
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\obj\Debug\SpicyUI.csprojResolveAssemblyReference.cache
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\bin\Debug\SpicyUI.dll
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\bin\Debug\SpicyUI.pdb
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\bin\Debug\Xamarin.Forms.Core.dll
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\bin\Debug\Xamarin.Forms.Core.xml
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\obj\Debug\SpicyUI.Views.WelcomePage.xaml.g.cs
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\obj\Debug\SpicyUI.Views.FriendsPage.xaml.g.cs
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\obj\Debug\SpicyUI.App.xaml.g.cs
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\obj\Debug\SpicyUI.Views.CameraPage.xaml.g.cs
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\obj\Debug\SpicyUI.dll
+F:\Downloads\Custom Renderers Guest Lecture\Custom Renderers Guest Lecture\SpicyUI\SpicyUI\obj\Debug\SpicyUI.pdb
